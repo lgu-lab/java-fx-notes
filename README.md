@@ -19,6 +19,6 @@ File browser with tree view
      - Source code ( GitHub ) : https://github.com/huguesjohnson/debigulator/tree/master/fx  
  - http://tomsondev.bestsolution.at/2015/01/12/javafx-filesystem-viewers/ 
  - http://www.consulting-bolte.de/index.php/18-java-se/javafx-and-e-fx-clipse/48-simple-javafx-file-system-tree-view 
- - 
+ - http://docs.oracle.com/javafx/2/ui_controls/tree-view.htm 
  
  
