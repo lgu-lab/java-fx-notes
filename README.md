@@ -3,6 +3,12 @@ Notes about Java FX
 
 Java FX code/text editors 
 
+Text editor 
+  - http://www.drdobbs.com/jvm/a-javafx-text-editor-part-1/240142297
+  - http://www.drdobbs.com/jvm/a-javafx-file-editor-part-2/240142542
+  - https://docs.oracle.com/javafx/2/ui_controls/editor.htm 
+  - 
+  
 **RichTextFX** by Tomas Mikula : 
   - https://github.com/TomasMikula/RichTextFX
   - http://tomasmikula.github.io/blog/2014/07/06/richtextfx-just-got-faster.html
@@ -10,6 +16,7 @@ Java FX code/text editors
 
 Developing a code editor :
 - http://tomsondev.bestsolution.at/2015/07/24/developing-a-source-code-editor-in-javafx-without-e4-and-osgi/ 
+- http://tomsondev.bestsolution.at/2015/10/27/javafx-codeeditors-at-javaone-con3123/ 
 
 
 File browser with tree view 
