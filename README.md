@@ -10,3 +10,9 @@ Java FX code/text editors
 
 Developing a code editor :
 - http://tomsondev.bestsolution.at/2015/07/24/developing-a-source-code-editor-in-javafx-without-e4-and-osgi/ 
+
+
+File browser with tree view 
+ - https://dzone.com/articles/writing-simple-file-browser 
+ - http://huguesjohnson.com/debigulator.html 
+ - Source code ( GitHub ) : https://github.com/huguesjohnson/debigulator/tree/master/fx 
